@@ -39,6 +39,9 @@ Question Generation – OpenAI’s LLM generates questions based on the retrieve
 
 Display Results – Generated questions are shown in the Streamlit interface.
 
+![image](https://github.com/user-attachments/assets/c9e78093-5534-4d1d-983e-63225379df9e)
+
+
 🛠️ Tech Stack
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Programming Language: Python 🐍
