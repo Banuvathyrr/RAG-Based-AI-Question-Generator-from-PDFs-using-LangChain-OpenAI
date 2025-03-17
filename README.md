@@ -5,6 +5,10 @@ A RAG-based AI Question Generator that extracts relevant content from PDFs using
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This project is a Retrieval-Augmented Generation (RAG)-based AI-powered question generator that extracts relevant content from PDFs using FAISS vector search and generates questions with OpenAI's LLM. The system dynamically creates quizzes based on user-selected topics and grade levels.
 
+
+![image](https://github.com/user-attachments/assets/d685844d-236a-4c4f-944e-8968bd694dc8)
+
+
 🎯 Features
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📂 PDF Upload: Users can upload a PDF containing study material.
